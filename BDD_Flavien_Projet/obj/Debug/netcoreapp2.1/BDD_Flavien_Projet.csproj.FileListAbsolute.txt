@@ -1,0 +1,11 @@
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\bin\Debug\netcoreapp2.1\BDD_Flavien_Projet.deps.json
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\bin\Debug\netcoreapp2.1\BDD_Flavien_Projet.runtimeconfig.json
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\bin\Debug\netcoreapp2.1\BDD_Flavien_Projet.runtimeconfig.dev.json
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\bin\Debug\netcoreapp2.1\BDD_Flavien_Projet.dll
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\obj\Debug\netcoreapp2.1\BDD_Flavien_Projet.csprojAssemblyReference.cache
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\obj\Debug\netcoreapp2.1\BDD_Flavien_Projet.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\obj\Debug\netcoreapp2.1\BDD_Flavien_Projet.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\obj\Debug\netcoreapp2.1\BDD_Flavien_Projet.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\bin\Debug\netcoreapp2.1\BDD_Flavien_Projet.pdb
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\obj\Debug\netcoreapp2.1\BDD_Flavien_Projet.dll
+C:\Users\flavi\OneDrive\Documents\Cours ESILV\Année 3\S6\Programmation orientée objet avancée\BDD_Flavien_Projet\BDD_Flavien_Projet\obj\Debug\netcoreapp2.1\BDD_Flavien_Projet.pdb

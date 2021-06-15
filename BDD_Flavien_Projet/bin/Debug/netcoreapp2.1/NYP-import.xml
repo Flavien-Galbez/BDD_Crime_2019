@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resultats SYSTEM "modele_importation.dtd">
+<resultats>
+  <date>
+    <jour>25</jour>
+    <mois>10</mois>
+  </date>
+  <crime>
+    <date>
+      <jour>25</jour>
+      <mois>10</mois>
+    </date>
+    <borough>BROOKLYN</borough>
+    <desc_crime>grand larceny</desc_crime>
+    <desc_specificity>by bank acct compromise-teller</desc_specificity>
+    <jurisdiction>N.Y. STATE POLICE</jurisdiction>
+  </crime>
+  <crime>
+    <date>
+      <jour>25</jour>
+      <mois>10</mois>
+    </date>
+    <borough>QUEENS</borough>
+    <desc_crime>grand larceny of motor vehicle</desc_crime>
+    <desc_specificity>of auto - attem</desc_specificity>
+    <jurisdiction>TRI-BORO BRDG TUNNL</jurisdiction>
+  </crime>
+</resultats>
